@@ -1,2 +1,3 @@
 # rumah_sakit_NONE
-projek Python PBO
+
+rumah sakit application using python customtkinter for project python object oriented programming
