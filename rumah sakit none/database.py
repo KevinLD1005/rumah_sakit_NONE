@@ -3,10 +3,10 @@ import mysql.connector
 class database:
 
     __conn = mysql.connector.connect(
-        host = "localhost",
-        user = "kelompokN",
-        password = "kelompok5",
-        database = "rumah_sakit"
+        host = "your_host",
+        user = "your_user",
+        password = "your_password",
+        database = "your_database"
     )
     
     cursor = __conn.cursor(buffered=True)
