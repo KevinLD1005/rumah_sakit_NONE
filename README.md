@@ -2,7 +2,6 @@
 
 rumah sakit application using python customtkinter for project python object oriented programming
 
-Auth page
 ![Screenshot 2024-09-23 131009](https://github.com/user-attachments/assets/4aab6e2c-ccb5-400f-a733-2a99f1e4083f)
 
 Home page
